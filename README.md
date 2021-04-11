@@ -17,6 +17,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirdsense3)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myu1231)](https://solved.ac/myu1231)
 
+
+- 🌱 I’m currently learning Android, Spring Boot. Also, Kotlin, Java.
+- 📫 How to reach me: miyu2095@gmail.com
+
 <!--
 **Thirdsense3/Thirdsense3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
