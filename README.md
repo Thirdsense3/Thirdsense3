@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black&color=brightgreen"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&color=green"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirdsense3)](https://github.com/anuraghazra/github-readme-stats)
