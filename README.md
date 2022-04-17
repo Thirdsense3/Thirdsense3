@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Thirdsense3&fontSize=90&animation=fadeIn)
+## BackEnd Developer 
 
 
-## ⚒️ My Tech Stack ⚒️
+⚒️ My Tech Stack ⚒️
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
@@ -15,10 +15,12 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirdsense3)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myu1231)](https://solved.ac/myu1231)
 
 
-- 🌱 I’m currently learning Android, Spring Boot. Also, Kotlin, Java.
+- 🌱 I’m currently learning Spring, Java.
+- I want to learn about Everything.
 - 📫 How to reach me: miyu2095@gmail.com
 
 <!--
