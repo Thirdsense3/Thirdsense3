@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thirdsense3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Thirdsense3)](https://github.com/stats-organization/github-stats-extended)
 <br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myu1231)](https://solved.ac/myu1231)
 
